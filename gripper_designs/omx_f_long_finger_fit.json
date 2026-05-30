@@ -1,0 +1,63 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "STL_LINK6": "model\/omx_f_mesh\/follower_07_gripper_motorized.stl",
+            "X_SOCKET_END": "65",
+            "X_SOCKET_START": "22",
+            "clearance": "0.29999999999999999",
+            "clip_lip": "0.59999999999999998",
+            "ridge_height": "2.5",
+            "ridge_pitch": "13",
+            "ridge_width": "3.5",
+            "show_phantom": "false",
+            "wall": "1.8",
+            "which_finger": "both"
+        },
+        "New set 2": {
+            "STL_LINK6": "model\/omx_f_mesh\/follower_07_gripper_motorized.stl",
+            "X_SOCKET_END": "65",
+            "X_SOCKET_START": "22",
+            "clearance": "0.29999999999999999",
+            "clip_lip": "0.59999999999999998",
+            "ridge_height": "3",
+            "ridge_pitch": "13",
+            "ridge_width": "4",
+            "show_phantom": "false",
+            "wall": "1.8",
+            "which_finger": "both"
+        },
+        "New set 3": {
+            "N": "16",
+            "STL_LINK6": "model\/omx_f_mesh\/follower_07_gripper_motorized.stl",
+            "X_SOCKET_END": "65",
+            "X_SOCKET_START": "22",
+            "clearance": "2.5",
+            "clip_lip": "0.59999999999999998",
+            "ridge_height": "2",
+            "ridge_pitch": "10",
+            "ridge_width": "3",
+            "ridge_z_gap": "2",
+            "show_phantom": "false",
+            "tip_ext": "10",
+            "wall": "1.8",
+            "which_finger": "both"
+        },
+        "New set 4": {
+            "N": "16",
+            "STL_LINK6": "model\/omx_f_mesh\/follower_07_gripper_motorized.stl",
+            "X_SOCKET_END": "65",
+            "X_SOCKET_START": "22",
+            "clearance": "1.2",
+            "clip_lip": "0.59999999999999998",
+            "ridge_height": "2",
+            "ridge_pitch": "10",
+            "ridge_width": "3",
+            "ridge_z_gap": "2",
+            "show_phantom": "false",
+            "tip_ext": "10",
+            "wall": "1.8",
+            "which_finger": "both"
+        }
+    }
+}
