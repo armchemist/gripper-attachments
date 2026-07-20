@@ -42,7 +42,7 @@ base_z_bottom = -36.0                                # 베이스 바닥 Z (하�
 base_z_top    =   4.0                                # 베이스 윗변 Z (하우징 윗변과 동일)
 
 # ── 팁 단면 (Y = cut_y + blade_length, 이등변 대칭 축소) ───
-blade_length    = 100.0                              # 블레이드 길이 (Y 방향, mm)
+blade_length    = 100.0 * 2 / 3                      # 블레이드 길이 (Y 방향, mm) — 기존 100 → 2/3 (≈66.67)
 tip_x_inner     = -10.2                              # 팁 안쪽 X — base 와 동일 (-X 면 평면 유지)
 tip_x_outer     =  -4.0                              # 팁 바깥 X — base 보다 -X 로 → 두께 12.7mm → 6.2mm
 # 이등변 측면 프로파일: 베이스 Z 중심 = (-36 + 4)/2 = -16. 팁 높이 10mm → 중심 ±5
